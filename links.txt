@@ -1,4 +1,7 @@
 
-gruvbox-gtk : https://github.com/3ximus/gruvbox-gtk
-tela circle : https://github.com/vinceliuice/Tela-circle-icon-theme
-ksuperkey   : https://snapcraft.io/install/ksuperkey/mint
+gruvbox-gtk       : https://github.com/3ximus/gruvbox-gtk
+tela circle       : https://github.com/vinceliuice/Tela-circle-icon-theme
+ksuperkey         : https://snapcraft.io/install/ksuperkey/mint
+-wallpapers
+steampunk_doctor  : https://wallpapercave.com/w/LfEdQGY
+steampunk_samurai : https://www.wallpaperflare.com/japan-samurai-katana-fantasy-art-mech-steampunk-wallpaper-udfyo/download/1920x1080
