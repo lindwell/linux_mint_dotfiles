@@ -2,6 +2,11 @@
 gruvbox-gtk       : https://github.com/3ximus/gruvbox-gtk
 tela circle       : https://github.com/vinceliuice/Tela-circle-icon-theme
 ksuperkey         : https://snapcraft.io/install/ksuperkey/mint
--wallpapers
-steampunk_doctor  : https://wallpapercave.com/w/LfEdQGY
-steampunk_samurai : https://www.wallpaperflare.com/japan-samurai-katana-fantasy-art-mech-steampunk-wallpaper-udfyo/download/1920x1080
+
+-commands
+>getting kakaotalk to work
+playonlinux       : sudo apt install playonlinux
+kakaotalk exe`````: wget https://app-pc.kakaocdn.net/talk/win32/KakaoTalk_Setup.exe
+>installing virtualbox
+virtualbox        : sudo apt install virtualbox virtualbox-ext-pack
+
