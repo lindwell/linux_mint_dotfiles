@@ -24,7 +24,7 @@ kakaotalk exe	  : wget https://app-pc.kakaocdn.net/talk/win32/KakaoTalk_Setup.ex
 
 ## How to use my setup
 
-0. Download apply things from Links section.
+0. Download and apply things from Links section.
 
 1. run this command to clone this repo
 
