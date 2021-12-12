@@ -1,6 +1,6 @@
 # linux_mint_dotfiles
 
-my linux mint dotfile
+This is my linux mint dotfile.
 
 ## Links
 
