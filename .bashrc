@@ -87,6 +87,15 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
+fcd() {
+	cd "$(find -type d | fzf)"
+}
+
+open() {
+	xdg-open "$(find -type f | fzf)"
+}
+
+
 # some more ls aliases
 alias ll='ls -alF'
 alias la='ls -A'
@@ -95,6 +104,9 @@ alias l='ls -CF'
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+
+#librewolf
+alias librewolf="flatpak run io.gitlab.librewolf-community"
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
@@ -116,3 +128,9 @@ if ! shopt -oq posix; then
   fi
 fi
 export PS1="[${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]]\\$ "
+
+#random ascii color art
+colorscript -r
+
+#cowsay
+#cowsay -f sodomized "I'm somewhat of an animal lover myself." | lolcat
