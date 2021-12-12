@@ -5,15 +5,21 @@ This is my linux mint dotfile.
 ## Links
 
 gruvbox-gtk         : https://github.com/3ximus/gruvbox-gtk
+
 tela circle         : https://github.com/vinceliuice/Tela-circle-icon-theme
+
 ksuperkey           : https://snapcraft.io/install/ksuperkey/mint
+
 border-only-gruvbox : https://github.com/c13h21no3/border-only-gruvbox
+
 Agve nerd font	    : https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Agave.zip
 
 ## Commands
 
 ### getting kakaotalk to work
+
 playonlinux       : sudo apt install playonlinux
+
 kakaotalk exe	  : wget https://app-pc.kakaocdn.net/talk/win32/KakaoTalk_Setup.exe
 
 ## How to use my setup
