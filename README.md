@@ -37,6 +37,7 @@ kakaotalk exe	  : wget https://app-pc.kakaocdn.net/talk/win32/KakaoTalk_Setup.ex
 3. run these commands to get my top panel design
 
 > cp linux_mint_dotfiles/gtk.css ~/.config/gtk-3.0
+
 > xfce4-panel -r
 
 
