@@ -2,6 +2,10 @@
 
 This is my linux mint dotfile.
 
+## Screenshots
+
+<img src="screenshot.jpg">
+
 ## Links
 
 gruvbox-gtk         : https://github.com/3ximus/gruvbox-gtk
